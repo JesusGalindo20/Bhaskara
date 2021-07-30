@@ -9,13 +9,6 @@ $c = $_POST['txtc'];
 
 echo "Exercicio <br>(".$a.")x<sup>2</sup> + (" .$b.")x + (" .$c. ") = 0<br><br>";
 
-
-// function ecuacion($a, $b, $c)
-// {
-
-
-// }
-
 //divisão 0
 if($a == '0')
 {
